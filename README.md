@@ -1,11 +1,24 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Redis Course Outline
 
-To start the slide show:
+## 1. Introduction to Redis
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+- What is Redis?
+- Why use Redis?
+- How to use Redis?
 
-Edit the [slides.md](./slides.md) to see the changes.
+## 2. Installing Redis
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+- Installing Redis on Mac
+- Installing Redis on Linux
+- Installing Redis on Windows
+
+## 3. Redis Data Types
+
+- Strings
+- Hashes
+- Lists
+- Sets
+- Sorted Sets
+- Bitmaps
+- HyperLogLogs
+
